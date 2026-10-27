@@ -1,18 +1,10 @@
 # Softend cuentas
-> Aca se mostrarán todos los datos
+> Aca se mostrarán todos los datos de Softend
 
-**Autor:** BRUCA
-**Fecha:** 24/10/2026
-**Versión:** 1.0
+## Instagram
 
----
+[softend.tech]([https://ejemplo.com](https://www.instagram.com/softend.tech?utm_source=ig_web_button_share_sheet&mdxt=ZDNlZDc0MzIxNw==))
 
-## Índice
-
-1. [Introducción](#introducción)
-2. [Contenido](#contenido)
-3. [Código](#código)
-4. [Notas](#notas)
 
 ---
 
@@ -59,6 +51,6 @@ function saludar(nombre) {
 
 > **Nota:** Esto es una cita o aviso destacado.
 
-[Texto del enlace](https://ejemplo.com)
+
 
 ![Texto alternativo de la imagen](ruta/imagen.png)
